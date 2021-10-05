@@ -1,0 +1,13 @@
+.UnsplashImage{
+  display: flex;
+  flex-direction: row;
+}
+
+.ImageMap{
+  margin: 0px 10px;
+}
+
+.UnsplashImage .ImageMap img {
+  height: 100px;
+  width: 100px;
+}

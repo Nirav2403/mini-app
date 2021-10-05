@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.AppNav{
+    background-color: yellowgreen;
+    float: left;
+    width: 100%;
+    height: 50px;
+    line-height: 30px;
+}
+
+#NavMenu{
+    list-style: none;
+    text-decoration: none;
+}
+
+#NavMenu > li{
+    float: left;
+    padding: 10px 0px;
+}
+
+#NavMenu > li > a{
+    text-decoration: none;
+    padding: 15px 50px;
+}
+
+#NavBtn > button{
+    float: right;
+    height: 40px;
+    width: 100px;
+    margin: -10px 20px 5px 0px;
+    background-color: lightcyan;
+    color: darkmagenta;
+    border: 2px solid darkmagenta;
+    border-radius: 5px;
+}

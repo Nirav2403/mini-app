@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+#HeadingLogin{
+  font-size: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  color: lightskyblue;
+  font-weight: lighter;
+}
+
+p{
+  text-align: center;
+}
+
+#mainheader{
+  background-color: thistle;
+}
+
+#MainHeader{
+  width: 25%;
+  margin: 0px auto;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+#MainHeader > img {
+  height: 100px;
+  width: 100px;
+  margin-right: 10px;
+}
+
+#MainTitle{
+  display: inline-block;
+  color:rebeccapurple;
+}
+

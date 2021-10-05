@@ -1,0 +1,19 @@
+.moji {
+    font-size: 3em;
+    text-align: center;
+  }
+  #emoji {
+    width: 100%;
+    margin: 0 10px;
+  }
+  .slider {
+    display: flex;
+    justify-content: space-between;
+  }
+  span {
+    font-weight: bold;
+    color: #5fcf80;
+  }
+  span:last-child {
+    color: tomato;
+  }
